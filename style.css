@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #10152f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100 vh;
+}
+
+canvas {
+  display: block;
+  max-width: 100%;
+  border: 3 px solid #7068c9;
+}
