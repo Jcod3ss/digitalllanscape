@@ -1,6 +1,6 @@
 let x = 100;
 let y = 280;
-let skyColor = 200;
+let skyColor = 50;
 let sound;
 
 function setup() {
